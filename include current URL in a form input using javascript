@@ -1,1 +1,6 @@
+<script type="text/javascript">           
+window.onload=function()
+{document.getElementById('pageurl').value = window.location.href;}
+</script>
 
+<input type="text" id="pageurl"  name="pageurl" value="pageurl" />
